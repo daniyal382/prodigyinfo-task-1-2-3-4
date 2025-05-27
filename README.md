@@ -1,2 +1,2 @@
-# prodigyinfo-task-1-2-3-4
+# prodigyinfo
 MY INTERNSHIP WORK
